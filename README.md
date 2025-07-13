@@ -2,6 +2,8 @@
 
 This website is created with the Gsap library
 
+![App Banner](public/images/github-logo.png)
+
 # Setup
 
 ```bash
