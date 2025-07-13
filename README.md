@@ -1,6 +1,21 @@
-# React + Vite
+# React + Vite + Gsap
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This website is created with the Gsap library
+
+# Setup
+
+```bash
+
+# Install dependencies
+npm install
+
+# Run development server
+npm run dev
+
+# Build for production
+npm run build
+npm run start
+```
 
 # URL
 
